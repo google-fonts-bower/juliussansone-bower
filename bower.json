@@ -1,0 +1,17 @@
+{
+    "name": "juliussansone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Luciano Vergara"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/juliussansone-bower.git"
+    },
+    "description": "Julius Sans One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
